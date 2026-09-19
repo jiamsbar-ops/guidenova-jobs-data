@@ -1,6 +1,6 @@
 const DEFAULT_JOBS = [
 {
-    id: "job_006",
+    id: "job_001",
     logoBg: "#8b5cf6",
     logoText: "X",
     company: "Xziant Communications",
@@ -16,7 +16,7 @@ const DEFAULT_JOBS = [
     experience: "Experience Not Mentioned",
     criteria: "Knowledge of SEO and Content Writing.",
     applyUrl: "https://xziant.com/",
-    rounds: "HR Screening -> Technical/Writing Round",
+    rounds: " Technical Round",
     category: "IT / Software",
     walkinTime: "06:30 PM - 8:30 PM",
     contactPerson: "Vidhi Chaudhary (8448610952)",
