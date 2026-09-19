@@ -16,7 +16,7 @@ const DEFAULT_JOBS = [
     experience: "Experience Not Mentioned",
     criteria: "Knowledge of SEO and Content Writing.",
     applyUrl: "https://xziant.com/",
-    rounds: " Technical Round",
+    rounds: " Technical Round ",
     category: "IT / Software",
     walkinTime: "06:30 PM - 8:30 PM",
     contactPerson: "Vidhi Chaudhary (8448610952)",
