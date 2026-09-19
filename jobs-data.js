@@ -230,5 +230,31 @@ const DEFAULT_JOBS = [
     venue: "Wipro, Plot No. 6, Tower A, Tech Boulevard, Sector 127, Noida, Uttar Pradesh",
     googleMapsUrl: "https://maps.google.com/?q=Wipro+Tech+Boulevard+Sector+127+Noida",
     documentsRequired: "Updated Resume, Government-issued ID, Marksheets, and Passport-size Photos."
+  },
+
+    {
+    id: "job_010",
+    logoBg: "#0ea5e9",
+    logoText: "W",
+    company: "Wipro",
+    verified: true,
+    title: "Order Management Associate (O2C)",
+    walkinDateDisplay: "Apply ASAP",
+    walkinDate: "2026-09-20",
+    urgency: "Hiring Fast",
+    package: "Best in Industry",
+    location: "Gurugram",
+    areaDetail: "Gurugram",
+    workingDays: "Night Shift (5:30 PM - 3:00 AM)",
+    experience: "0-1 Years (Freshers Eligible)",
+    criteria: "Only Graduates. Excellent MS Excel Skills. Strong communication & analytical skills required.",
+    applyUrl: "https://careers.wipro.com",
+    rounds: "Aptitude Test -> HR -> Managerial Interview",
+    category: "Process Analyst",
+    walkinTime: "Apply Online First",
+    contactPerson: "HR Team",
+    venue: "Wipro, Gurugram",
+    googleMapsUrl: "https://maps.google.com/?q=Wipro+Gurugram",
+    documentsRequired: "Updated Resume, Government-issued ID, and Marksheets."
   }
 ];
