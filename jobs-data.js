@@ -72,7 +72,7 @@ const DEFAULT_JOBS = [
     walkinTime: "11:00 AM - 4:00 PM",
     contactPerson: "Provana HR Team",
     venue: "Provana India, Logix Cyber Park, Tower C, Sector 62, Noida",
-    googleMapsUrl: "https://maps.google.com/?q=Logix+Cyber+Park+Noida",
+    googleMapsUrl: "https://maps.google.com/?q=Provana+A68+Sector+64+Noida",
     documentsRequired: "Updated Resume, Aadhar Card, PAN Card, and Educational Certificates."
   },
     
