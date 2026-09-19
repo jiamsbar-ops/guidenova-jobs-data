@@ -1,15 +1,4 @@
-// ===================================================================
-// GuideNova Corporate Walk-In Portal — SAMPLE JOB DATASET
-// File: sample-data.js
-// Push this file to: Raj94233-glitch/guidenova-data (repo root, branch: main)
-// wapp.js already fetches this exact URL on every page load/refresh:
-// https://raw.githubusercontent.com/Raj94233-glitch/guidenova-data/main/sample-data.js
-//
-// IMPORTANT: this is SAMPLE/DEMO data. Company names are real but venue
-// addresses, dates, phone numbers, contact names and apply links are
-// placeholders — verify and replace with real details before going live,
-// otherwise it misleads job seekers.
-// ===================================================================
+
 
 const DEFAULT_JOBS = [
   {
