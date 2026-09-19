@@ -223,7 +223,7 @@ const DEFAULT_JOBS = [
     experience: "0-29 Months (Freshers Eligible)",
     criteria: "Any Graduate (B.Tech freshers not eligible). Excellent English communication required. Both-way cab facility provided.",
     applyUrl: "https://careers.wipro.com",
-    rounds: "Resume Screening -> Communication Test -> HR -> Operations Round",
+    rounds: "Resume Screening -> Communication Test -> HR -> Operations  Round",
     category: "Customer Support",
     walkinTime: "12:00 PM - 3:00 PM",
     contactPerson: "Wipro HR Team",
