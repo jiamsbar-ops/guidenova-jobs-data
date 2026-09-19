@@ -33,7 +33,7 @@ const DEFAULT_JOBS = [
     company: "Xziant Communications",
     verified: true,
     title: "Search Engine Optimization Executive And Content Writer",
-    walkinDateDisplay: "1st Sep - 30th Sep",
+    walkinDateDisplay: "1st Sep - 30th  Sep",
     walkinDate: "2026-09-01",
     urgency: "Walk-In",
     package: "Not Disclosed",
