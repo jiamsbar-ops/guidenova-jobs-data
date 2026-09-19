@@ -25,7 +25,7 @@ const DEFAULT_JOBS = [
     documentsRequired: "Updated Resume, Aadhar Card, and Passport Size Photos."
   },
 {
-    id: "job_008",
+    id: "job_002",
     logoBg: "#10b981",
     logoText: "H",
     company: "HangingPanda Pvt. Ltd.",
@@ -49,8 +49,35 @@ const DEFAULT_JOBS = [
     googleMapsUrl: "https://maps.google.com/?q=HangingPanda+Sector+63+Noida",
     documentsRequired: "Updated Resume, College ID/Degree, and Aadhar Card."
   },
-{
+
+    {
     id: "job_003",
+    logoBg: "#059669",
+    logoText: "P",
+    company: "Provana",
+    verified: true,
+    title: "Process Executive - Legal/Backend Operations",
+    walkinDateDisplay: "Monday to Friday",
+    walkinDate: "2026-09-22",
+    urgency: "Hiring Fast",
+    package: "₹2.5 LPA ",
+    location: "Noida",
+    areaDetail: "Sector 62, Noida",
+    workingDays: "5 Days Working, US Night Shift",
+    experience: "0-2 Years (Freshers Eligible)",
+    criteria: "Any Graduate (B.A/B.Com/B.B.A preferred). Good reading and comprehension skills for legal documents. US Shift readiness.",
+    applyUrl: "https://www.provana.com/careers",
+    rounds: "Aptitude -> Typping Test -> HR Round -> Manager Round",
+    category: "Process Analyst",
+    walkinTime: "11:00 AM - 4:00 PM",
+    contactPerson: "Provana HR Team",
+    venue: "Provana India, Logix Cyber Park, Tower C, Sector 62, Noida",
+    googleMapsUrl: "https://maps.google.com/?q=Logix+Cyber+Park+Noida",
+    documentsRequired: "Updated Resume, Aadhar Card, PAN Card, and Educational Certificates."
+  },
+    
+{
+    id: "job_004",
     logoBg: "#8b5cf6",
     logoText: "X",
     company: "Xziant Communications",
@@ -75,7 +102,7 @@ const DEFAULT_JOBS = [
     documentsRequired: "Updated Resume, Aadhar Card, and Passport Size Photos."
   },
   {
-    id: "job_004",
+    id: "job_005",
     logoBg: "#db2777",
     logoText: "T",
     company: "TCS",
@@ -100,7 +127,7 @@ const DEFAULT_JOBS = [
     documentsRequired: "TCS Application Form printout, Updated Resume, Original ID Proof."
   },
   {
-    id: "job_005",
+    id: "job_006",
     logoBg: "#9333ea",
     logoText: "H",
     company: "HCLTech",
