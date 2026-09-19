@@ -256,5 +256,31 @@ const DEFAULT_JOBS = [
     venue: "Wipro, Gurugram",
     googleMapsUrl: "https://maps.google.com/?q=Wipro+Gurugram",
     documentsRequired: "Updated Resume, Government-issued ID, and Marksheets."
+  },
+
+    {
+    id: "job_011",
+    logoBg: "#0284c7",
+    logoText: "E",
+    company: "EdgeVerve Systems",
+    verified: true,
+    title: "Associate Business Analyst",
+    walkinDateDisplay: "Apply Online",
+    walkinDate: "2026-09-20",
+    urgency: "Hiring Ongoing",
+    package: "Competitive / Best in Industry",
+    location: "Noida",
+    areaDetail: "Sector 135, Noida",
+    workingDays: "5 Days Working, Day Shift",
+    experience: "Fresher / 0-1 Year",
+    criteria: "MBA / Graduate with strong business analytical skills, requirement gathering, and excellent verbal & written communication.",
+    applyUrl: "https://www.edgeverve.com/careers/",
+    rounds: "Online Assessment -> Technical & Analytical Interview -> HR Discussion",
+    category: "Process Analyst",
+    walkinTime: "Online Application First",
+    contactPerson: "EdgeVerve Talent Acquisition",
+    venue: "Infosys / EdgeVerve Campus, Plot No. A-9, Sector 135, Noida, Uttar Pradesh 201305",
+    googleMapsUrl: "https://maps.google.com/?q=Infosys+Sector+135+Noida",
+    documentsRequired: "Updated Resume, Degree Certificates, Final Marksheets, and Govt. ID Proof."
   }
 ];
