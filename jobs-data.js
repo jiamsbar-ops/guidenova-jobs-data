@@ -57,7 +57,7 @@ const DEFAULT_JOBS = [
     logoText: "H",
     company: "HangingPanda Pvt. Ltd.",
     verified: true,
-    title: "IT Sales Intern",
+    title: "python developer Intern",
     walkinDateDisplay: "Ongoing Hiring",
     walkinDate: "2026-09-20",
     urgency: "5 Openings",
