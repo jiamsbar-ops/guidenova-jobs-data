@@ -4,7 +4,7 @@ const DEFAULT_JOBS = [
     id: "job_001",
     logoBg: "#2563eb",
     logoText: "M",
-    company: "MTAP Technologies",
+    company: "MTAP Technologies ",
     verified: true,
     title: "Trainee - Software Engineer (Frontend / Backend / QA)",
     walkinDateDisplay: "Ongoing Hiring",
