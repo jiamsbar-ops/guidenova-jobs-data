@@ -242,7 +242,7 @@ const DEFAULT_JOBS = [
     walkinDateDisplay: "Apply ASAP",
     walkinDate: "2026-09-20",
     urgency: "Hiring Fast",
-    package: "Best in Industry",
+    package: "Best in  Industry",
     location: "Gurugram",
     areaDetail: "Gurugram",
     workingDays: "Night Shift (5:30 PM - 3:00 AM)",
