@@ -77,8 +77,34 @@ const DEFAULT_JOBS = [
     documentsRequired: "Updated Resume, College ID/Degree, and Aadhar Card."
   },
 
-    {
+     {
     id: "job_004",
+    logoBg: "#0ea5e9",
+    logoText: "W",
+    company: "Wipro",
+    verified: true,
+    title: "Graduate Engineer Trainee (GET) / Developer L1",
+    walkinDateDisplay: "Apply ASAP",
+    walkinDate: "2026-09-20",
+    urgency: "Mass Hiring",
+    package: "Best in Industry",
+    location: "Gurugram",
+    areaDetail: "Gurugram",
+    workingDays: "Day Shift",
+    experience: "Fresher",
+    criteria: "B.E/B.Tech/B.Sc/BCA/M.E/M.Tech/M.Sc/MCA. Basic knowledge of testing, coding, and software development.",
+    applyUrl: "https://careers.wipro.com",
+    rounds: "Online Assessment -> Technical Interview -> HR",
+    category: "IT / Software",
+    walkinTime: "Apply Online First",
+    contactPerson: "Talent Acquisition Team",
+    venue: "Wipro Office, Gurugram (Shortlisted candidates will be called)",
+    googleMapsUrl: "https://maps.google.com/?q=Wipro+Gurugram",
+    documentsRequired: "Updated Resume, Degree Certificate, and ID Proof."
+  },
+    
+    {
+    id: "job_005",
     logoBg: "#059669",
     logoText: "P",
     company: "Provana",
@@ -104,7 +130,7 @@ const DEFAULT_JOBS = [
   },
     
 {
-    id: "job_005",
+    id: "job_006",
     logoBg: "#8b5cf6",
     logoText: "X",
     company: "Xziant Communications",
@@ -129,7 +155,7 @@ const DEFAULT_JOBS = [
     documentsRequired: "Updated Resume, Aadhar Card, and Passport Size Photos."
   },
   {
-    id: "job_006",
+    id: "job_007",
     logoBg: "#db2777",
     logoText: "T",
     company: "TCS",
@@ -154,7 +180,7 @@ const DEFAULT_JOBS = [
     documentsRequired: "TCS Application Form printout, Updated Resume, Original ID Proof."
   },
   {
-    id: "job_007",
+    id: "job_008",
     logoBg: "#9333ea",
     logoText: "H",
     company: "HCLTech",
@@ -181,7 +207,7 @@ const DEFAULT_JOBS = [
     ,
 
     {
-    id: "job_008",
+    id: "job_009",
     logoBg: "#0ea5e9",
     logoText: "W",
     company: "Wipro",
