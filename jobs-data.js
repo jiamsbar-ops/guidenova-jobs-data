@@ -1,6 +1,33 @@
 const DEFAULT_JOBS = [
-{
+
+    {
     id: "job_001",
+    logoBg: "#2563eb",
+    logoText: "M",
+    company: "MTAP Technologies",
+    verified: true,
+    title: "Trainee - Software Engineer (Frontend / Backend / QA)",
+    walkinDateDisplay: "Ongoing Hiring",
+    walkinDate: "2026-09-20",
+    urgency: "Hiring Fast",
+    package: "Not Disclosed",
+    location: "Gurugram",
+    areaDetail: "Udyog Vihar Phase 4, Gurugram",
+    workingDays: "5 Days Working, Day Shift",
+    experience: "Fresher",
+    criteria: "B.Tech/MCA/BCA. Basic knowledge of JavaScript, React, Java, or Software Testing depending on the role.",
+    applyUrl: "https://www.mtap.in/contactus/",
+    rounds: "Online Assessment -> Technical Interview -> HR Round",
+    category: "IT / Software",
+    walkinTime: "10:30 AM - 4:00 PM (Subject to shortlist)",
+    contactPerson: "Talent Acquisition Team",
+    venue: "ONWARD Workspaces, 27, Phase IV, Udyog Vihar, Sector 18, Gurugram, Haryana - 122015",
+    googleMapsUrl: "https://maps.google.com/?q=ONWARD+Workspaces+Udyog+Vihar+Sector+18+Gurugram",
+    documentsRequired: "Updated Resume, Provisional/Degree Certificate, and Aadhar Card."
+  },
+    
+{
+    id: "job_002",
     logoBg: "#8b5cf6",
     logoText: "X",
     company: "Xziant Communications",
@@ -25,7 +52,7 @@ const DEFAULT_JOBS = [
     documentsRequired: "Updated Resume, Aadhar Card, and Passport Size Photos."
   },
 {
-    id: "job_002",
+    id: "job_003",
     logoBg: "#10b981",
     logoText: "H",
     company: "HangingPanda Pvt. Ltd.",
@@ -51,7 +78,7 @@ const DEFAULT_JOBS = [
   },
 
     {
-    id: "job_003",
+    id: "job_004",
     logoBg: "#059669",
     logoText: "P",
     company: "Provana",
@@ -77,7 +104,7 @@ const DEFAULT_JOBS = [
   },
     
 {
-    id: "job_004",
+    id: "job_005",
     logoBg: "#8b5cf6",
     logoText: "X",
     company: "Xziant Communications",
@@ -102,7 +129,7 @@ const DEFAULT_JOBS = [
     documentsRequired: "Updated Resume, Aadhar Card, and Passport Size Photos."
   },
   {
-    id: "job_005",
+    id: "job_006",
     logoBg: "#db2777",
     logoText: "T",
     company: "TCS",
@@ -127,7 +154,7 @@ const DEFAULT_JOBS = [
     documentsRequired: "TCS Application Form printout, Updated Resume, Original ID Proof."
   },
   {
-    id: "job_006",
+    id: "job_007",
     logoBg: "#9333ea",
     logoText: "H",
     company: "HCLTech",
