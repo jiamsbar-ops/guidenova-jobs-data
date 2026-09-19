@@ -84,7 +84,7 @@ const DEFAULT_JOBS = [
     company: "Wipro",
     verified: true,
     title: "Graduate Engineer Trainee (GET) / Developer L1",
-    walkinDateDisplay: "Apply ASAP",
+    walkinDateDisplay: "Apply ASAP ",
     walkinDate: "2026-09-20",
     urgency: "Mass Hiring",
     package: "Best in Industry",
