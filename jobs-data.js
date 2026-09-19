@@ -55,7 +55,7 @@ const DEFAULT_JOBS = [
     id: "job_003",
     logoBg: "#10b981",
     logoText: "H",
-    company: "HangingPanda Pvt. Ltd.",
+    company: "HangingPanda Pvt. Ltd. ",
     verified: true,
     title: "python developer Intern",
     walkinDateDisplay: "Ongoing Hiring",
