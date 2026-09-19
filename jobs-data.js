@@ -178,4 +178,31 @@ const DEFAULT_JOBS = [
     googleMapsUrl: "https://maps.google.com/?q=HCLTech+Sector+126+Noida",
     documentsRequired: "Updated CV, Last 3 months Salary Slips, Adhaar Card."
   }
+    ,
+
+    {
+    id: "job_008",
+    logoBg: "#0ea5e9",
+    logoText: "W",
+    company: "Wipro",
+    verified: true,
+    title: "US Customer Service - Webchat",
+    walkinDateDisplay: "21st & 23rd September 2026",
+    walkinDate: "2026-09-21",
+    urgency: "Mega Walk-In Drive",
+    package: "Up to ₹25,000 / Month",
+    location: "Noida",
+    areaDetail: "Sector 127, Noida",
+    workingDays: "5 Days Working (Sat-Sun Fixed Off)",
+    experience: "0-29 Months (Freshers Eligible)",
+    criteria: "Any Graduate (B.Tech freshers not eligible). Excellent English communication required. Both-way cab facility provided.",
+    applyUrl: "https://careers.wipro.com",
+    rounds: "Resume Screening -> Communication Test -> HR -> Operations Round",
+    category: "Customer Support",
+    walkinTime: "12:00 PM - 3:00 PM",
+    contactPerson: "Wipro HR Team",
+    venue: "Wipro, Plot No. 6, Tower A, Tech Boulevard, Sector 127, Noida, Uttar Pradesh",
+    googleMapsUrl: "https://maps.google.com/?q=Wipro+Tech+Boulevard+Sector+127+Noida",
+    documentsRequired: "Updated Resume, Government-issued ID, Marksheets, and Passport-size Photos."
+  }
 ];
