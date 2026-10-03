@@ -27,35 +27,19 @@
       "applyUrl": "https://www.genpact.com/careers",
       "postedAt": "2026-10-03"
     },
-
     {
-      "id": "genpact-delhi-002",
-      "title": "Seo",
-      "company": "Genpact",
-      "logoText": "GP",
-      "logoBg": "#e11d48",
-      "verified": true,
-      "location": "delhi",
-      "areaDetail": "rohni",
-      "venue": "Genpact, Plot 4, Sector 62, Noida, Uttar Pradesh 201309",
-      "googleMapsUrl": "https://maps.google.com/?q=Genpact+Sector+62+Noida",
-      "package": "3.0 - 4.2 LPA",
-      "experience": "Fresher - 3 years",
-      "workingDays": "5 Days Working, Day Shift",
-      "shiftType": "day",
-      "skills": ["Excel", "Communication"],
-      "criteria": "Graduate in any stream. Good English communication. Immediate joiners preferred.",
-      "walkinDateStart": "2026-10-08",
-      "walkinDateEnd": "2026-10-10",
-      "walkinTime": "10:00 AM - 3:00 PM",
-      "urgency": "This week",
-      "rounds": "HR screening -> Versant test -> Operations interview",
-      "documentsRequired": "Updated resume, Aadhaar/PAN, 2 passport photos, last company offer letter",
-      "hr": { "name": "Priya Sharma", "phone": "9876543210", "email": "hr@example.com" },
-      "applyUrl": "https://www.genpact.com/careers",
-      "postedAt": "2026-10-03"
+      "id": "demo-hyd-002",
+      "title": "Web Developer (React)",
+      "company": "Example Tech",
+      "location": "Hydrabad",
+      "areaDetail": "HITEC City",
+      "venue": "Example Tech, Madhapur, Hyderabad 500081",
+      "package": "4 - 7 LPA",
+      "workingDays": "5 Days Working",
+      "criteria": "1-3 years in React and REST APIs.",
+      "walkinDate": "2026-10-12",
+      "hr": { "name": "Rahul", "phone": "9123456780" },
+      "applyUrl": "https://example.com/careers"
     }
-    
-    
   ]
 }
