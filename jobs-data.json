@@ -70,6 +70,48 @@
   "documentsRequired": "Updated resume (hard copy) and original government ID card (e.g., Aadhaar)",
   "hr": { "name": "Anushtha Sharma", "phone": "9389726392", "email": "anushtha.sharma@taskus.com" },
   "postedAt": "2026-10-03"
+},
+
+    {
+  "id": "starhealth-noida-004",
+  "title": "Sales Executive (Insurance Telesales)",
+  "company": "Star Health (via N.R. Manpower Solution)",
+  "logoText": "SH",
+  "logoBg": "#dc2626",
+  "location": "Noida",
+  "areaDetail": "Sector 3, Noida",
+  "venue": "Sector 3, Noida, Uttar Pradesh (exact address to be confirmed with HR)",
+  "package": "23k - 25k in-hand/month + incentives",
+  "experience": "Fresher / Experienced (0 - 5 yrs)",
+  "skills": ["Telesales", "Inside Sales", "Sales Support", "Insurance Sales"],
+  "criteria": "Freshers and experienced telesales candidates both welcome; graduation not required. Freshers: 23k in-hand. Experienced: 25k in-hand. Incentives depend on performance. 50 openings.",
+  "walkinDateStart": "2026-10-03",
+  "walkinDateEnd": "2026-10-30",
+  "walkinTime": "11:00 AM - 6:00 PM",
+  "urgency": "Till 30 Oct",
+  "hr": { "phone": "7050127111" },
+  "postedAt": "2026-10-03"
+},
+    {
+  "id": "eureka-noida-001",
+  "title": "Telesales Executive - HERO Voice Process (Domestic BPO)",
+  "company": "Eureka Outsourcing Solutions (via Credicus)",
+  "logoText": "EO",
+  "logoBg": "#0d9488",
+  "location": "Noida",
+  "areaDetail": "Sector 62, Noida",
+  "venue": "Sector 62, Noida, Uttar Pradesh (exact address to be confirmed with HR)",
+  "package": "13.5k in-hand/month + unlimited incentives",
+  "experience": "Fresher / Experienced (0 - 3 yrs)",
+  "workingDays": "Rotational shift 8 AM - 8 PM (9 hrs), 1 rotational week off",
+  "skills": ["Telesales", "BPO Voice", "Voice Process", "Domestic BPO", "Customer Service"],
+  "criteria": "Minimum HSC (12th) pass with average/basic English communication. Freshers and experienced both can apply. Handle inbound and outbound calls. 150 openings.",
+  "walkinDateStart": "2026-09-29",
+  "walkinDateEnd": "2026-10-24",
+  "walkinTime": "8:30 AM - 6:30 PM",
+  "urgency": "Till 24 Oct",
+  "hr": { "name": "Mayuri (HR)", "phone": "8485089028" },
+  "postedAt": "2026-09-30"
 }
     
   ]
