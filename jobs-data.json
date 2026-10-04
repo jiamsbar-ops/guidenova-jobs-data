@@ -51,19 +51,26 @@
 },
 
     {
-      "id": "demo-hyd-003",
-      "title": "data Developer (React)",
-      "company": "Example Tech",
-      "location": "himachal",
-      "areaDetail": "HITEC City",
-      "venue": "Example Tech, Madhapur, Hyderabad 500081",
-      "package": "4 - 7 LPA",
-      "workingDays": "5 Days Working",
-      "criteria": "1-3 years in React and REST APIs.",
-      "walkinDate": "2026-10-12",
-      "hr": { "name": "Rahul", "phone": "9123456780" },
-      "applyUrl": "https://example.com/careers"
-    }
+  "id": "taskus-noida-003",
+  "title": "Video Labelling Specialist / Teammate",
+  "company": "TaskUs",
+  "logoText": "TU",
+  "logoBg": "#6d28d9",
+  "category": "Video Labelling",
+  "location": "Noida",
+  "areaDetail": "Sector 144, Noida",
+  "venue": "TaskUs, NSL Techzone, Tower 2, 8th Floor, Sector 144, Noida, Uttar Pradesh",
+  "experience": "Fresher / 3+ months experience",
+  "skills": ["Video Labelling", "Data Annotation", "Annotation", "Image Processing"],
+  "criteria": "Graduate in any discipline. Minimum 3 months experience or internship in video labelling, data annotation or BPO backend operations; graduate freshers with excellent English communication are also eligible. Strong attention to detail and basic computer skills. 200 openings.",
+  "walkinDateStart": "2026-10-05",
+  "walkinDateEnd": "2026-10-09",
+  "walkinTime": "11:30 AM - 5:00 PM",
+  "urgency": "5 - 9 Oct",
+  "documentsRequired": "Updated resume (hard copy) and original government ID card (e.g., Aadhaar)",
+  "hr": { "name": "Anushtha Sharma", "phone": "9389726392", "email": "anushtha.sharma@taskus.com" },
+  "postedAt": "2026-10-03"
+}
     
   ]
 }
