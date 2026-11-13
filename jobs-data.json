@@ -73,6 +73,32 @@
   "hr": { "name": "Indrajeet (HR Specialist)", "phone": "9196254114" },
   "postedAt": "2026-11-11"
 }
+    ,
+
+{
+  "id": "neometrix-noida-002",
+  "title": "Mechanical Engineer (B.Tech / B.E.) - Core Engineering",
+  "company": "Neometrix Defence",
+  "logoText": "ND",
+  "logoBg": "#1e3a8a",
+  "category": "Mechanical Engineer",
+  "location": "Noida",
+  "areaDetail": "Sector 63, Noida",
+  "venue": "Neometrix Defence Ltd, E-148, Sector-63, Noida, Uttar Pradesh 201301 (near Sector-62 metro, Blue Line)",
+  "package": "3 - 10 LPA + minimum 15% raise every year",
+  "experience": "0 - 5 years (freshers welcome)",
+  "skills": ["Mechanical Engineering", "Hydraulics", "Pneumatics", "Machine Design", "Thermodynamics", "Defence", "Aerospace"],
+  "criteria": "B.Tech/B.E. in Mechanical, Production or Industrial Engineering with strong command of core subjects and ability to read technical drawings. JEE Mains rank under 1 lakh, or a strong score in their written test. 70%+ in 10th, 12th and B.Tech preferred, not compulsory. Design role: test rigs, ground support equipment, hydraulic and pneumatic systems for defence. Salary: NIT/IIT or equivalent 4 - 10 LPA, other colleges 3 - 5 LPA, decided by test and interview. 3-year commitment required, with a guaranteed minimum 15% raise every year and 3 months paid on-the-job training. Optional company accommodation in Noida, subsidised lunch. 50 openings. Other HR: Akanksha 8744070606.",
+  "walkinDateStart": "2026-11-12",
+  "walkinDateEnd": "2027-02-10",
+  "walkinTime": "10:30 AM - 4:30 PM (walk in any day)",
+  "urgency": "Open till 10 Feb",
+  "rounds": "Written test (core mechanical CBT) -> Interview the same day -> Decision the same day",
+  "documentsRequired": "CV and marksheets (10th, 12th, B.Tech)",
+  "hr": { "name": "Ms Mudrika Vashisht (HR Manager)", "phone": "7290012361" },
+  "applyUrl": "https://neometrixgroup.com/careers",
+  "postedAt": "2026-11-12"
+}
     
   ]
 }
